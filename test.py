@@ -1,4 +1,4 @@
-def hello():
+def hellao():
 
     print("어떻게 사람 이름이 엄ㅋㅋㅋㅋㅋㅋ")
 
@@ -7,4 +7,4 @@ def hello():
 
 
 if __name__ == '__main__':
-    hello()
+    hellao()
