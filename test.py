@@ -1,5 +1,5 @@
 def hello():
-    print("hello")
+    print("인준 병신")
 
 
 if __name__ == '__main__':
